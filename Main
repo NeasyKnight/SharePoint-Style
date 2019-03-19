@@ -1,0 +1,2 @@
+git remote add origin https://github.com/MicrosoftDocs/OfficeDocs-SharePoint
+git push -u origin master
